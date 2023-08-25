@@ -1,6 +1,18 @@
 # Sectoral Analysis for Indian Economy
  Top-Down Investment Strategy Optimization with Time Series Forecasting 
 
+ **Objectives:**
+Model should be capable of capturing cyclical trends and patterns within different sectors of the Indian economy. Additionally, the model should generate lead and lag indicators to forecast the performance of specific sectors in future periods which would in turn enable one to make informed investment decisions based on the model outcome directly.
+**Why Nifty Index:**
+To effectively evaluate the performance of different sectors, we decided to utilize the Nifty sectoral indices values as the target variable for different sectors.
+Nifty sectoral indices serve as reliable indicators to assess the performance, track trends, and gauge overall sentiment within specific sectors of the Indian stock market. This is because the index is a basket of stocks that represent the sector, and its performance is a reflection of the performance of the underlying stocks.
+
+Now ,these are the 3 objectives that this project tries to fulfill-which are
+1.	Building forecasting models that effectively capture and predict business cyclical shifts within specific industries.
+2.	Creating an automated tool that can compute lead/lag signals, enabling real-time identification of trends and patterns.
+3.	Enhancing the decision-making process by providing accurate forecasted trends.
+
+
 **Project Title: Sectoral Analysis for Indian Economy**
 
 **1. Data Collection and Preprocessing:**
