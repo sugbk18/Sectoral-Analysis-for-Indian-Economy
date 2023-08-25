@@ -14,7 +14,7 @@ Now ,these are the 3 objectives that this project tries to fulfill-which are
 3.	Enhancing the decision-making process by providing accurate forecasted trends.
 
 
-**Project Title: Sectoral Analysis for Indian Economy**
+**Project Pipeline**
 
 **1. Data Collection and Preprocessing:**
 - Identify potential features from sectoral annual reports, research papers, government websites, etc.
