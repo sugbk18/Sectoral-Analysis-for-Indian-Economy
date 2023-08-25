@@ -3,6 +3,7 @@
 
  **Objectives:**
 Model should be capable of capturing cyclical trends and patterns within different sectors of the Indian economy. Additionally, the model should generate lead and lag indicators to forecast the performance of specific sectors in future periods which would in turn enable one to make informed investment decisions based on the model outcome directly.
+
 **Why Nifty Index:**
 To effectively evaluate the performance of different sectors, we decided to utilize the Nifty sectoral indices values as the target variable for different sectors.
 Nifty sectoral indices serve as reliable indicators to assess the performance, track trends, and gauge overall sentiment within specific sectors of the Indian stock market. This is because the index is a basket of stocks that represent the sector, and its performance is a reflection of the performance of the underlying stocks.
